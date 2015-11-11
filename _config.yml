@@ -1,5 +1,5 @@
-title:            Scribble
-description:      A jekyll theme. Because I scribble.
+title:            yony.io
+description:      Code without coffee is just code.
 url:              # Site url, without a slash at the end.
 signoff:          # Your name.
 disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
@@ -10,7 +10,7 @@ links:
   - name:         About
     url:          /about
   - name:         Blog
-    url:          http://muan.co
+    url:          http://yony.io
     external:     true
   - name:         GitHub
     url:          http://github.com/muan

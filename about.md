@@ -3,8 +3,8 @@ layout: page
 title: About
 ---
 
-Give people something to read and get to know you. Here's my attempt: this is [Mu-An](http://muan.co), a designer developer who lives in London at the moment.
+I'm a frontend developer primarily interested in data visulization and user experience design. People, amirite?
 
-Tweet at [@muanchiou](http://twitter.com/muanchiou), read my code on [GitHub](http://github.com/muan), see my designs on [Dribbble](http://dribbble.com/muan), find my CV on [LinkedIn](http://uk.linkedin.com/in/muanchiou).
+Tweet me [@yonester](http://twitter.com/yonester), read my code on [GitHub](http://github.com/yonester), find my CV on [LinkedIn](https://www.linkedin.com/in/yonester).
 
-This theme is made by me. You have a nice day. ♥
+Have a nice day. ♥
