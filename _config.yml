@@ -1,6 +1,6 @@
 title:            yony.io
 description:      Code without coffee is just code.
-url:              # Site url, without a slash at the end.
+url:              http://yony.io
 signoff:          # Your name.
 disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
 facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
@@ -10,10 +10,9 @@ links:
   - name:         About
     url:          /about
   - name:         Blog
-    url:          http://yony.io
-    external:     true
+    url:          /
   - name:         GitHub
-    url:          http://github.com/muan
+    url:          http://github.com/yonester
     external:     true
 highlighter:      pygments
 permalink:        pretty
