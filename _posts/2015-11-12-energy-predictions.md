@@ -11,11 +11,11 @@ In addition, some animations are sprinkled in for added effect and pizazz, as we
 
 What makes this chart so attractive is its simplicity and visual appeal. It seems that it would be easy to glean useful conclusions without a need to carefully study the various elements. Incidentally, that's why bar charts and line graphs are so appealing—they give a big bang for the buck.
 
-I decided to try a rough implementation, which yielded some interesting lessons about the difference between concept and reality in data visualization. While I tried to stay true to the concept where possible, once unpredictable values were visualized some edge cases appeared that required tweaks to maintain the chart's usefulness.
+I decided to try a rough [implementation](/experiments/energy-predictions/), which yielded some interesting lessons about the difference between concept and reality in data visualization. While I tried to stay true to the concept where possible, once unpredictable values were visualized some edge cases appeared that required tweaks to maintain the chart's usefulness.
 
 It's important to note that this isn't meant to be a critique of the concept itself—which I think is quite brilliant<sup>[1](#1)</sup>. It is a concept after all and was probably created as an inspiration rather than to fit a an existing system. Still, I found it instructive to study the gap between theory and practice through implementation.
 
-If you haven't already, I recommend you take a moment to check out the [animated concept](https://dribbble.com/shots/1800678-Energy-Predictions), and then take a look at my [implementation](#). Try clicking the various layers to isolate a particular metric. Click the layer again to zoom back out.
+If you haven't already, I recommend you take a moment to check out the [animated concept](https://dribbble.com/shots/1800678-Energy-Predictions), and then take a look at my [implementation](/experiments/energy-predictions/). Try clicking the various layers to isolate a particular metric. Click the layer again to zoom back out.
 
 ### Consider The Data
 

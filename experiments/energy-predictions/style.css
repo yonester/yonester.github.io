@@ -73,6 +73,10 @@ h2 {
   margin: 0 6px;
 }
 
+.layer {
+  cursor: pointer;
+}
+
 .g-axis path {
   display: none;
 }
