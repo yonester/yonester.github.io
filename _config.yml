@@ -11,8 +11,8 @@ links:
     url:          /about
   - name:         Blog
     url:          /
-  - name:         GitHub
-    url:          http://github.com/yonester
+  - name:         Resume
+    url:          /resume
     external:     true
 highlighter:      pygments
 permalink:        pretty
