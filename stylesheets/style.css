@@ -67,6 +67,9 @@ img {
   font-size: 24px;
   line-height: 1em; }
 
+ul {
+  margin-left: 2em; }
+
 ol, ol li {
   padding: 0;
   margin: 0; }
@@ -159,6 +162,8 @@ a, .as-link {
   -ms-transition: color 0.3s;
   -o-transition: color 0.3s;
   transition: color 0.3s; }
+  a.footnote {
+    color: #303030; }
   a.main, a:hover, .as-link.main, .as-link:hover {
     color: #1d5884;
     background-image: url(/images/line.png);

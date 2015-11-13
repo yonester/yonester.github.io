@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Energy Predicitons</title>
+    <link rel='stylesheet' type='text/css' href='https://fonts.googleapis.com/css?family=Oswald:400,300'>
+    <link rel="stylesheet" type='text/css' href="style.css">
+  </head>
+  <body>
+    <div class="header">
+      <div class="title">
+        <h1>Energy Predictions</h1>
+        <h2 id="daterange">10.06.2014-10.12.2014</h2>
+      </div>
+      <div class="panel">
+        <div class="panel-counter">
+          <div class="panel-counter-value">35</div>
+          <div class="panel-counter-symbols">
+            <div class="panel-counter-symbols-updown">▲</div>
+            <div class="panel-counter-symbols-pct">%</div>
+          </div>
+        </div>
+        <div class="panel-text">Increase of total energy consumption</div>
+      </div>
+    </div>
+    <div id="vis"></div>
+    <script src="http://d3js.org/d3.v3.min.js"></script>
+    <script src="energy.js"></script>
+  </body>
+</html>
