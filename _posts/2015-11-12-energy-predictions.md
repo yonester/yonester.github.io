@@ -4,11 +4,11 @@ title: Energy Predictions
 share: y
 ---
 
-I found [this](https://dribbble.com/shots/1800678-Energy-Predictions) interesting use of a [steamgraph](http://leebyron.com/streamgraph/) on Dribble the other day. The aim is to show a 7-day prediction of a home's energy consumption using stacked areas to define a continuous range of values, presumably in lieu of stacked bars. Using some interpolation, this approach emphasizes trend over time rather than discrete quantities.
+I found [this](https://dribbble.com/shots/1800678-Energy-Predictions) interesting use of a [streamgraph](http://leebyron.com/streamgraph/) on Dribble the other day. The aim is to show a 7-day prediction of a home's energy consumption using stacked areas to define a continuous range of values, presumably in lieu of stacked bars. Using some interpolation, this approach emphasizes trend over time rather than discrete quantities.
 
 In addition, some animations are sprinkled in for added effect and delight, as well as transitions for [object constancy](http://bost.ocks.org/mike/constancy/).
 
-![Energy Predictions Steamgraph](/images/energy-predictions.png)
+![Energy Predictions Streamgraph](/images/energy-predictions.png)
 
 What makes this chart so attractive is its simplicity and visual appeal. It seems that it would be easy to glean useful conclusions without a need to carefully study the various elements. Incidentally, that's why bar charts and line graphs are so appealing—they give a big bang for the buck.
 
